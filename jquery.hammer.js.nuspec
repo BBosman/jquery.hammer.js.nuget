@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>jquery.hammer.js</id>
+    <version>1.0.6</version>
+    <title>jquery.hammer.js</title>
+    <authors>Kernteam Microsoft - Ministerie van Defensie</authors>
+    <owners>Kernteam Microsoft - Ministerie van Defensie</owners>
+    <licenseUrl>https://github.com/EightMedia/jquery.hammer.js/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/EightMedia/jquery.hammer.js/</projectUrl>
+    <iconUrl>http://starterskit.mindef.nl/Install/TemplateIcon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>jQuery plugin for Hammer.js</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>Hammer jQuery Touch</tags>
+    <dependencies />
+  </metadata>
+  <files>
+    <file src="jquery.hammer.js\jquery.hammer*.js" target="content\Scripts" />
+    <file src="jquery.hammer.js\jquery.hammer*.map" target="content\Scripts" />
+  </files>
+</package>
