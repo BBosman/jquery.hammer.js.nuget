@@ -4,11 +4,11 @@
     <id>jquery.hammer.js</id>
     <version>1.0.6</version>
     <title>jquery.hammer.js</title>
-    <authors>Kernteam Microsoft - Ministerie van Defensie</authors>
-    <owners>Kernteam Microsoft - Ministerie van Defensie</owners>
+    <authors>Jorik Tangelder</authors>
+    <owners>BBosman</owners>
     <licenseUrl>https://github.com/EightMedia/jquery.hammer.js/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/EightMedia/jquery.hammer.js/</projectUrl>
-    <iconUrl>http://starterskit.mindef.nl/Install/TemplateIcon.png</iconUrl>
+    <iconUrl>https://raw.github.com/BBosman/jquery.hammer.js.nuget/master/hammer.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>jQuery plugin for Hammer.js</description>
     <releaseNotes></releaseNotes>
