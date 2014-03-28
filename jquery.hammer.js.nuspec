@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>jquery.hammer.js</id>
-    <version>1.0.9</version>
+    <version>1.0.10</version>
     <title>jquery.hammer.js</title>
     <authors>Jorik Tangelder</authors>
     <owners>BBosman</owners>
@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>jQuery plugin for Hammer.js</description>
     <releaseNotes></releaseNotes>
-    <copyright>Copyright 2013-2014</copyright>
+    <copyright>Copyright 2011-2014</copyright>
     <tags>Hammer jQuery Touch</tags>
     <dependencies />
   </metadata>
