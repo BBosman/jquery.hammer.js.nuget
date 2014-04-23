@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>jquery.hammer.js</id>
-    <version>1.0.10</version>
+    <version>1.1.0</version>
     <title>jquery.hammer.js</title>
     <authors>Jorik Tangelder</authors>
     <owners>BBosman</owners>
